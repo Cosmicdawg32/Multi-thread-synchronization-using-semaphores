@@ -6,7 +6,7 @@
 4. Dining philosophers solution #2
 
 ### No-starve readers-writers Solution:
-![Problem 1 Solution](Screnshots/Problem1Solution)
+![Problem 1 Solution](Screenshots/Problem1Solution)
 
 ### Writer-priority readers-writers solution
 
