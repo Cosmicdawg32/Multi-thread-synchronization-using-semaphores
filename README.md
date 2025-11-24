@@ -11,5 +11,6 @@
 ### Writer-priority readers-writers solution
 ![Problem 2 Solution](Screenshots/Problem2Solution.png)
 ### Dining philosophers solution #1
+![Problem 3 Solution](Screenshots/Problem3Solution.png)
 
 ### Dining philosophers solution #2
