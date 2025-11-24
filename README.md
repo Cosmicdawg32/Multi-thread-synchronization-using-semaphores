@@ -14,3 +14,4 @@
 ![Problem 3 Solution](Screenshots/Problem3Solution.png)
 
 ### Dining philosophers solution #2
+![Problem 3 Solution](Screenshots/Problem4Solution.png)
