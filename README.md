@@ -9,7 +9,7 @@
 ![Problem 1 Solution](Screenshots/Problem1Solution.png)
 
 ### Writer-priority readers-writers solution
-
+![Problem 2 Solution](Screenshots/Problem2Solution.png)
 ### Dining philosophers solution #1
 
 ### Dining philosophers solution #2
